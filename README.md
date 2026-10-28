@@ -64,5 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Tautulli is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://tautulli.com/
+Tautulli is an open‑source web application that monitors, analyzes and provides notifications for Plex Media Server activity. It offers real‑time monitoring, detailed statistics, history logs, graphs, and customizable alerts, helping users track what is being watched, by whom, and when. The tool runs alongside Plex, supporting multiple platforms via Python and includes a mobile remote app for on‑the‑go access.
+
+**Areas:** Company · Monitoring · Plex · Open-Source · Analytics
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://tautulli.com/)
+- [Documentation](https://github.com/Tautulli/Tautulli/wiki)
+- [Getting started](https://docs.tautulli.com/getting-started/installation)
+- [API reference](https://github.com/Tautulli/Tautulli/wiki/Tautulli-API-Reference)
+- [Support](https://tautulli.com/discord.html)
+- [Changelog](https://github.com/Tautulli/Tautulli/releases)
+- [GitHub](https://github.com/Tautulli)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/tautulli/](https://apis.io/providers/tautulli/).
